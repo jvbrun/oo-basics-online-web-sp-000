@@ -8,7 +8,11 @@ class Shoe
   end
  
   def cobble
-    puts "your shoe is as good as new!"
+    @cobble = cobble
+  end
+  
+  def cobble
+    cobble
   end
  
 end
