@@ -7,8 +7,9 @@ class Shoe
     @brand = brand
   end
  
-  def turn_page
-    puts "shoe has been repaired"
+  def cobble
+    puts "says that the shoe has been reparied"
+    puts "makes the shoe's condition new"
   end
  
 end
