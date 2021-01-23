@@ -8,7 +8,11 @@ class Shoe
   end
   
   def cobble
-    puts "Makes the shoe's condition new"
+    if condition = "new"
+      puts "Your shoe is as good as new!"
+    else
+      puts "Shoes are busted!"
+    end
   end
  
 end
