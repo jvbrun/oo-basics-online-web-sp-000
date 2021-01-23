@@ -9,7 +9,6 @@ class Shoe
   
   def cobble
     @condition = "new"
-    @condition = "old"
   end
  
 end
