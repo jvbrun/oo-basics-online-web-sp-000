@@ -8,8 +8,7 @@ class Shoe
   end
  
   def cobble
-    puts "says that the shoe has been reparied"
-    puts "makes the shoe's condition new"
+    puts "your shoe is as good as new!"
   end
  
 end
