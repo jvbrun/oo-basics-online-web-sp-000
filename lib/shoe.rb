@@ -10,9 +10,5 @@ class Shoe
   def cobble
     @cobble = cobble
   end
-  
-  def cobble
-    cobble
-  end
  
 end
